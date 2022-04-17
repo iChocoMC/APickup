@@ -1,0 +1,5 @@
+name: APickup
+description: Autopickup and works fortune
+author: iChocoMC
+main: APickup.APickup
+version: 1.0
